@@ -1,0 +1,11 @@
+ls
+which go
+histoyr
+history
+go instlal github.com/juju/juju/...
+go install github.com/juju/juju/...
+cd
+cd workspace/worldsnapshot/
+ls
+nvm use 5.0
+source ~/.bashrc

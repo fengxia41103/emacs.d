@@ -1,0 +1,1 @@
+("~/workspace/myblog/" "~/.gvm/pkgsets/go1.6/global/src/github.com/juju/juju/" "~/.gvm/" "~/workspace/chinasnapshot/" "~/.gvm/pkgsets/go1.6/global/src/github.com/juju/gomaasapi/" "~/.emacs.d/" "~/workspace/static/" "~/workspace/worldsnapshot/" "~/.gvm/pkgsets/go1.6/global/src/github.com/juju/terms-client/" "~/.gvm/pkgsets/go1.6/global/src/github.com/juju/loggo/")

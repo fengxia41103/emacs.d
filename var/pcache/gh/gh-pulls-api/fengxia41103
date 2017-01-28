@@ -1,0 +1,7 @@
+;; Object gh/gh-pulls-api/fengxia41103
+;; EIEIO PERSISTENT OBJECT
+(gh-pulls-cache "gh/gh-pulls-api/fengxia41103"
+  :file "fengxia41103"
+  :object-name "gh/gh-pulls-api/fengxia41103"
+  :entries #s(hash-table size 65 test equal rehash-size 1.5 rehash-threshold 0.8 data ())
+  :timestamp 1485468653.0849695)
